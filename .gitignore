@@ -1,0 +1,17 @@
+/**/Topics
+/**/.idea
+/**/.build
+/**/build
+/**/test
+/**/inputs
+/**/kotlin
+/**/out
+
+*.jar
+*.yaml
+*.html
+*.gradle
+*.bin
+*.properties
+gradlew
+gradlew.*
